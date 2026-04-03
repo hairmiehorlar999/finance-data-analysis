@@ -115,9 +115,8 @@ finance-data-analysis/
 └── README.md
 ```
 
-
-## 🙌 Author
+🙌 Author
 
 Emiola Abdulbasit
 
-## ⭐ Don't forget to star this repository if you like it!
+⭐ Don't forget to star this repository if you like it!
